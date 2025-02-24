@@ -10,16 +10,43 @@ Below, I have listed guided assignments and personal projects (prompts and requi
 
 ## Guided Assignments
 
-- Balance Sheet
-- Cat Painting
+### Section 1
+- Camper Cafe Menu
+- Cat Photo App
 - CSS Colors
-- Nutrition Label
-- Piano
-- Quiz Accessibility
 - RegForm (reg = registration)
 
-## Practice Projects
+### Section 2
+- Rothko Painting
+- Photo Gallery
+- Nutrition Label
+- Quiz Accessibility
 
+### Section 3
+- Balance Sheet
+- Cat Painting
+- Piano
+
+### Section 4
+- City Skyline
+- Magazine
+
+### Section 5
+- Ferris Wheel
+- Penguin
+
+## Practice Projects
+### Section 1
 - HamForm - A user form that gathers information about the best hamburgers....one of my favorite foods :)
+
+### Section 2
 - Kaladin Tribute - A tribute page to Kaladin Stormblessed. Kaladin is a character from one of my favorite book series, The Stormlight Archives by Brandon Sanderson.
 
+### Section 3
+- Technical Documentation - A Web page listing some technical documentation on Arduino Functions
+
+### Section 4
+- In Progress :)
+
+### Section 5
+- In Progress :)
